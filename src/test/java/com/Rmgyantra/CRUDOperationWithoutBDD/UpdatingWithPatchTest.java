@@ -11,7 +11,7 @@ import io.restassured.specification.RequestSpecification;
 
 public class UpdatingWithPatchTest {
 	@Test
-	public void creatingProTest()
+	public void upatingPatchProTest()
 	{
 		JSONObject jobj=new JSONObject();
 		jobj.put("name", "morpheus");

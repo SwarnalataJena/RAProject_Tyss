@@ -3,11 +3,11 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.Rmgyantra.CRUDOperationWithoutBDD.UpdatingWithPatchTest">
+      <class name="com.Rmgyantra.validation.Time_BodyValidationTest">
         <methods>
-          <include name="creatingProTest"/>
+          <include name="timeBodyValidationTest"/>
         </methods>
-      </class> <!-- com.Rmgyantra.CRUDOperationWithoutBDD.UpdatingWithPatchTest -->
+      </class> <!-- com.Rmgyantra.validation.Time_BodyValidationTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
