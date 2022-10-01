@@ -1,12 +1,12 @@
 package com.Rmgyantra.validation;
 
+import static io.restassured.RestAssured.when;
+
+import java.util.List;
+
 import org.testng.annotations.Test;
 
 import io.restassured.response.Response;
-
-import static io.restassured.RestAssured.*;
-
-import java.util.List;
 
 public class Dynamic_validationTest {
 	@Test
@@ -32,6 +32,7 @@ public class Dynamic_validationTest {
 			
 		}
 		
+
 		
 	}
 

@@ -3,11 +3,11 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.Rmgyantra.validation.Time_BodyValidationTest">
+      <class name="com.Rmgyantra.Authentication.Oauth2Test">
         <methods>
-          <include name="timeBodyValidationTest"/>
+          <include name="oauth2Test"/>
         </methods>
-      </class> <!-- com.Rmgyantra.validation.Time_BodyValidationTest -->
+      </class> <!-- com.Rmgyantra.Authentication.Oauth2Test -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
